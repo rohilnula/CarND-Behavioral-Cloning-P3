@@ -1,7 +1,7 @@
 # Behavioral Cloning Project
 
 <video width="320" height="200" controls preload> 
-    <source src="video.mp4"></source> 
+    <source src="./video.mp4"></source> 
 </video>
 
 Overview
