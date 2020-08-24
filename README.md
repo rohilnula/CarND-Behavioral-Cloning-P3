@@ -1,9 +1,5 @@
 # Behavioral Cloning Project
 
-<video width="320" height="200" controls preload> 
-    <source src="./video.mp4"></source> 
-</video>
-
 Overview
 ---
 This repository contains code and a trained Deep Learning Model that tries to mimic my driving behavior on a simulated track. Hence, the name Behavioral Cloning Project.
